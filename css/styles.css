@@ -1,0 +1,15 @@
+#receipt {
+  display: none;
+}
+
+.receipt {
+  display: none;
+}
+
+h3 {
+  color: DimGray;
+}
+
+h4 {
+  color: green;
+}
